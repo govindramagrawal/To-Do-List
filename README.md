@@ -31,11 +31,6 @@ python manage.py runserver
 Open <http://127.0.0.1:8000/> in a browser. The project uses SQLite, and Django
 creates `db.sqlite3` when the database is migrated.
 
-The settings include a development-only fallback secret key so the project can
-run locally without extra configuration. Set the `DJANGO_SECRET_KEY`
-environment variable to a private value before deployment; do not use the
-development fallback in production.
-
 ## How the functionality works
 
 ### Viewing tasks
