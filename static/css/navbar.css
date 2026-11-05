@@ -1,0 +1,16 @@
+header {
+    background-color: #fafafc;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 100px;
+}
+
+
+.nav_button {
+    background-color: #0878FF;
+    color: white;
+    padding: 5px 10px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}

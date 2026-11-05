@@ -1,0 +1,27 @@
+.edit_task{
+    border: 1px solid;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.edit_task_bar{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.button_box{
+    margin-top: 10px;
+}
+
+.submit{
+      background-color: #0C7BFF;
+      color: white;
+      padding: 5px 10px;
+      outline: none;
+      border: none;
+      border-radius: 5px;
+}
